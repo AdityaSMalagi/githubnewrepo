@@ -1,0 +1,1 @@
+print("malagi is a good boy")
